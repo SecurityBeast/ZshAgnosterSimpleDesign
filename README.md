@@ -1,2 +1,2 @@
 # ZshAgnosterSimpleDesign
-Terminal , Shell
+Terminal , Shell ,Design
